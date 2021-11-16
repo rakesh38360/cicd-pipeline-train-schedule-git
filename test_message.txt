@@ -1,0 +1,1 @@
+This is to test new branch using git checkout and git push -u origin newBranch commands.
